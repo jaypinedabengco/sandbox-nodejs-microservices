@@ -1,0 +1,16 @@
+{
+  "name": "microservice",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "debug": "~2.2.0",
+    "config": "^1.21.0", //optional
+    "body-parser": "~1.15.1",
+    "cors": "^2.7.1",
+    "mysql": "^2.5.4"    
+  }
+}

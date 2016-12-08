@@ -1,0 +1,11 @@
+{
+	"db" : {
+         "host"     :  "localhost",
+         "user"     :  "root",
+         "password" :  "password",
+         "database" :  "test", 
+         "connectionLimit" :  100,
+         "debug"    :  false,
+         "multipleStatements": true          
+    }
+}
